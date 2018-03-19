@@ -1,0 +1,9 @@
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.csprojResolveAssemblyReference.cache
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.DAL.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ClassLibrary1.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.Common.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\bin\Debug\ProjectManagement.Common.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.DAL\obj\Debug\ProjectManagement.DAL.pdb

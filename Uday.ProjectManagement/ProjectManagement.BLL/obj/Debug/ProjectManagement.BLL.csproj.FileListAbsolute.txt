@@ -1,0 +1,9 @@
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\obj\Debug\ProjectManagement.BLL.csprojResolveAssemblyReference.cache
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ProjectManagement.BLL.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ProjectManagement.BLL.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ClassLibrary1.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ProjectManagement.Common.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\bin\Debug\ProjectManagement.Common.pdb
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\obj\Debug\ProjectManagement.BLL.dll
+C:\Users\madanuu\Documents\Visual Studio 2015\Projects\Uday.ProjectManagement\ProjectManagement.BLL\obj\Debug\ProjectManagement.BLL.pdb
